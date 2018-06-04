@@ -1,0 +1,25 @@
+{
+  "name": "platzon",
+  "version": "0.1.0",
+  "description": "Platzi tutorial",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSginer/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "rsginer",
+    "tutorial",
+    "sample"
+  ],
+  "author": "Ruben Soler <r.solerginer@gmail.com> (https://twitter.com/rubensolerweb)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RSginer/platzom/issues"
+  },
+  "homepage": "https://github.com/RSginer/platzom#readme"
+}
